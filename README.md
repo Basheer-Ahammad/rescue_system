@@ -1,8 +1,9 @@
 # Enhancing Victim Detection in Disaster Scenarios: A YOLOv8 and YOLOv9 Performance Study
 ## 🎥 Project Demo
 
-🔗 [Click here to watch the demo video](https://github.com/Basheer-Ahammad/rescue_system/blob/fb2c2c99771f9c601cbaae7bef8c5096dc3438a3/video3.mp4)
 
+
+https://github.com/user-attachments/assets/55256360-6041-46b5-bf87-ff64bdd3c85e
 
 
 ## ABSTRACT
