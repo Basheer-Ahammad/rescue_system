@@ -1,7 +1,11 @@
 # Enhancing Victim Detection in Disaster Scenarios: A YOLOv8 and YOLOv9 Performance Study
 ## 🎥 Project Demo
 
-[![Demo Video]()]
+<video width="600" controls>
+  <source src="https://github.com/Basheer-Ahammad/rescue_system/raw/fb2c2c99771f9c601cbaae7bef8c5096dc3438a3/video3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## ABSTRACT
 Following natural and man-made catastrophes like earthquakes, floods, fires, and structural collapses, the immediate and accurate identification of victims is essential for effective rescue strategies. Manual search or primitive sensor-based methods are usually the traditional ways of detecting victims, but these can be inefficient, cumbersome, and even risky for the rescue team. In order to transcend these constraints, this project investigates the use of state of the art computer vision methods based on deep learning models namely YOLOv8 and YOLOv9 for real-time victim identification.
