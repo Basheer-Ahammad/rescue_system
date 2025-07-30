@@ -41,5 +41,5 @@ Through training these models on real-time disaster data, the system can be util
 - Frontend   : HTML/CSS (Django templates)
 - Database   : SQLite / MySQL (optional)
 
-## project input & output
+
 
